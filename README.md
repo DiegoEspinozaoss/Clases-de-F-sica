@@ -39,7 +39,7 @@ Ondas
 
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas13.png?raw=true" alt="Alt text" width="600" height="400">
 
-<\p>
+</p>
 
 
 
@@ -60,7 +60,7 @@ Mecánica
 
 <p align="center">
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 2 fisica.png" alt="Alt text" width="600" height="400">
-
+</p>
 
 ---
 
@@ -68,7 +68,7 @@ Energía y Tierra
 
 <p align="center">
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 3 fisica.png" alt="Alt text" width="600" height="400">
-
+</p>
 
 ---
 
@@ -76,4 +76,4 @@ Electricidad
 
 <p align="center">
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 4 fisica.png" alt="Alt text" width="600" height="400">
-
+</p>
