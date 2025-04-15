@@ -10,13 +10,9 @@ Ondas
 
 <p align="center">
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen%20ejercicios%20bloque%201%20fisica.png?raw=true" alt="Alt text" width="600" height="400">
-</p>
 
 
 
-
-
-<p align="center">
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas1.png?raw=true" alt="Alt text" width="600" height="400">
 </p>
 
