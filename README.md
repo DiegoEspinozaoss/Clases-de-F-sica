@@ -1,31 +1,25 @@
 # Clases de Física
 En este repositorio (o carpeta) se pueden ver todos los contenidos que veremos este semestre. 
-
-PDT OFICIAL 2023 PAES MARCADAS: 19-36 FISICA 
-
-
- 
-
-
-PAES INVIERNO ADMISION 2024 (FORMA 151): 19-36 
-
-
-PAES REGULAR ADMISION 2024 (153): 19-53 
-
-
- 
+---
 
 Ondas
 
-
-![Gráfico del modelo](assets/imagen ejercicios bloque 1 fisica.png)
+<img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 1 fisica.png" alt="Alt text" width="600" height="400">
 
 
 ---
 
 Mecánica
+
+<img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 2 fisica.png" alt="Alt text" width="600" height="400">
+
 ---
 Energía y Tierra
+
+<img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 3 fisica.png" alt="Alt text" width="600" height="400">
+
 ---
 Electricidad
+
+<img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 4 fisica.png" alt="Alt text" width="600" height="400">
 
