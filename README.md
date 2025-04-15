@@ -16,6 +16,8 @@ PAES REGULAR ADMISION 2024 (153): 19-53
  
 
 Ondas
+
+
 ![Gráfico del modelo](assets/imagen ejercicios bloque 1 fisica.png)
 
 
