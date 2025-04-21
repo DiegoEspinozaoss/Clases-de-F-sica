@@ -39,7 +39,7 @@ Ondas
 
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas12.png?raw=true" alt="Alt text" width="600" height="400">
 
-  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas13.png?raw=true" alt="Alt text" width="600" height="400">
+  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas13.png?raw=true" alt="Alt text" width="600" height="1200">
 
 </p>
 
