@@ -47,11 +47,11 @@ Recursos:
 
 - [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
 - [Efecto Doppler](https://www.geogebra.org/m/q2nmywav)
-- [Refracción y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
+- [Dispersión y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
 - [Interferencia Destructiva y Constructiva](https://www.geogebra.org/m/wm46PXac)
 - [Interferencia Destructiva](https://www.geogebra.org/m/QyH5eeaN)
 - [Interferencia Constructiva](https://www.geogebra.org/m/gQBSEZ8s)
-  
+- [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ)
 - [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
 - [Lentes Divergentes y convergentes](https://www.geogebra.org/m/dpFzRedt)
 
