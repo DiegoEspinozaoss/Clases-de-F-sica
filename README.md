@@ -35,7 +35,7 @@ Ondas
   
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas10.png?raw=true" alt="Alt text" width="2500" height="800">
 
-  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas13.png?raw=true" alt="Alt text" width="600" height="1200">
+  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas13.png?raw=true" alt="Alt text">
 
 </p>
 
@@ -43,8 +43,17 @@ Ondas
 
 
 
+Recursos: 
 
-
+- [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
+- [Efecto Doppler](https://www.geogebra.org/m/q2nmywav)
+- [Refracción y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
+- [Interferencia Destructiva y Constructiva](https://www.geogebra.org/m/wm46PXac)
+- [Interferencia Destructiva](https://www.geogebra.org/m/QyH5eeaN)
+- [Interferencia Constructiva](https://www.geogebra.org/m/gQBSEZ8s)
+  
+- [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
+- [Lentes Divergentes y convergentes](https://www.geogebra.org/m/dpFzRedt)
 
 
 
