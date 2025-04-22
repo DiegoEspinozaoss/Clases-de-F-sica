@@ -44,6 +44,7 @@ Ondas
 
 
 Recursos: 
+- [Elementos de una onda](https://www.geogebra.org/m/sftghynw)
 
 - [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
 - [Efecto Doppler](https://www.geogebra.org/m/q2nmywav)
