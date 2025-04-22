@@ -13,11 +13,11 @@ Ondas
 
 
 
-  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas1.png?raw=true" alt="Alt text" width="2500" height="800">
+  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas1.png?raw=true" alt="Alt text">
 
 
 
-  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas2.png?raw=true" alt="Alt text" width="2500" height="800">
+  <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas2.png?raw=true" alt="Alt text">
 
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/ondas3.png?raw=true" alt="Alt text" width="2500" height="800">
 
