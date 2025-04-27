@@ -81,27 +81,28 @@ Recursos:
 3. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
   
 4. La resonancia:
+  Fenómeno por el cual una onda excita un objeto a su frecuencia natural. La frecuencia natural es aquella frecuencia o tono, o cantidad de ciclos por segundo que el cuerpo necesita vibrar para que se pueda producir una pérdida de la estructura o solidez material. 
   - [ejemplo 1: resonancia en el agua](https://www.youtube.com/shorts/3nGfzuaNcGI),
   - [ejemplo 2: resonancia en el vaso de cristal](https://www.youtube.com/watch?v=9Dp4PYcmA48)
   - [ejemplo 3: puente de Tacoma](https://www.youtube.com/watch?v=SzObC64E2Ag)
     
-5. [Efecto Doppler](https://www.geogebra.org/m/q2nmywav) también ver lo que pasaría en un [tanque de agua](https://www.geogebra.org/m/MhXH3vcu)
+5. Efecto Doppler: El efecto Doppler es aquel fenómeno que ocurre en la luz y/o el sonido consistente en el aumento de la frecuencia o tono cuando la fuente emisora se acerca al receptor de la onda, y consecuentemente a su disminucion cuando se alejan uno del otro. [ver recurso Geogebra](https://www.geogebra.org/m/q2nmywav) también ver lo que pasaría en un [tanque de agua](https://www.geogebra.org/m/MhXH3vcu)
 
-6. [Dispersión y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
+6. Dispersión: La dispersion es el fenómeno por el cual una onda de luz blanca divide sus colores al experimentar primero el fenómeno de refraccion en un prisma blanco o que desvía los colores en diferentes grados debido a la frecuencia o longitud de onda. [Ver los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
 
-7. Formación de los colores (teoría RGB):
+7. Formación de los colores (teoría RGB): Los colores en general se forman por la combinacion de los tres principales; rojo, azul y verde.
    - [Phet interactive resource](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=es)
    - [Geogebra resource](https://www.geogebra.org/m/zcwdnbkv)
 
-8. [Difracción de la luz](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html?locale=es)
+8. Difracción de la luz: Lo que aqui sucede es que la luz, el sonido o cualquier otra onda rodea un obstaculo que se encuentra en su direccional de movimiento sin alterar finalmente la misma [Ver ejemplo de difraccion](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html?locale=es)
 
-9. Interferencia:
+9. Interferencia: La interferencia consiste en la superposicion, suma o resta de las amplitudes de ondas del mismo tipo.
    - [Ondas superficiales de agua](https://www.geogebra.org/m/wm46PXac)
    - [Interferencia Destructiva](https://www.geogebra.org/m/QyH5eeaN)
    - [Interferencia Constructiva](https://www.geogebra.org/m/gQBSEZ8s)
    - [Experimento de la doble rendija](https://www.geogebra.org/m/nxkcffkd)
 
-10. [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ)
+10. [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ) Aquí podemos ver cómo la luz se distribuye en el espectro electromagnetico según las diferentes longitudes de onda, generalmente expresadas en nano metros. 
    
 
 11. [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
