@@ -42,8 +42,11 @@ Ondas
 
 
 
-
-Recursos: 
+Historia de la luz:
+  - Teoría de Newton de la luz: corpúsculos o puntos de materia.
+  - Teoría de Huygens de la luz: onda u oscilación.
+  - Teoría moderna: la luz tiene una dualidad onda-corpúsculo.
+  - Cálculo de la velocidad de la luz, antes se pensaba que la luz tenía una velocidad infinita. El primero en usar la observación de un fenómeno astronómico para demostrar que la luz no tiene velocidad infinita fue Ole Rømer (1644–1710), un astrónomo danés. Utilizando las observaciones de los eclipses de Ío, una de las lunas de Júpiter. Rømer notó que el tiempo entre las ocultaciones de Ío variaba según la posición relativa de la Tierra y Júpiter en sus órbitas. Cuando la Tierra se alejaba de Júpiter, los eclipses de Ío parecían retrasarse; cuando la Tierra se acercaba, parecían adelantarse. De ahí concluyó que la luz tardaba un tiempo finito en recorrer distancias astronómicas. En 1676, estimó el tiempo que la luz tardaba en cruzar el diámetro de la órbita de la Tierra en unos 22 minutos (hoy sabemos que son aproximadamente 16,6 minutos).
 
 1. Definición de una onda:
   - Una onda es sinónimamente llamada "oscilación", "perturbación", etc. y es el movimiento de un campo con respecto a un punto de equilibrio. Es decir, es un "ir y un venir en un medio material o fuera de él". No es más que un movimiento repetitivo y periódico en la mayoría de las veces. 
@@ -105,16 +108,38 @@ Recursos:
 10. [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ) Aquí podemos ver cómo la luz se distribuye en el espectro electromagnetico según las diferentes longitudes de onda, generalmente expresadas en nano metros. 
    
 
-11. [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
+11. Espejos: (recordar que el foco es el punto por donde pasan todos los haces de luz)
+    - Espejos planos: producen imagenes especulares, derechas y del mismo tamaño que el objeto.
+    - Los espejos convexos siempre producen imágenes virtuales, de menor tamaño y derechas. En cambio, los espejos cóncavos pueden formar diferentes tipos de imágenes: entre el     foco y el espejo, generan imágenes virtuales, mayores y derechas; en el foco no se forma imagen; y más allá del foco, producen imágenes reales, invertidas y de distintos tamaños según la posición del objeto.[ejemplos](https://www.geogebra.org/m/CJS4Q4SM)
 
-12. [Lentes Divergentes y convergentes](https://www.geogebra.org/m/dpFzRedt)
+13. Lentes:
+    - Lente convergente: los rayos paralelos al eje óptico se refractan de tal manera que convergen en un punto focal real, detrás del lente.
+      - Si el objeto está más allá del doble foco: la imagen es real, invertida y de menor tamaño.
+      - Si el objeto está entre el doble foco y el foco: la imagen es real, invertida y de mayor tamaño.
+      - Si el objeto está entre el foco y el lente: la imagen es virtual, derecha y de mayor tamaño.
+    - Lente divergente: los rayos paralelos al eje óptico se dispersan al atravesar el lente, como si provinieran de un foco virtual ubicado delante del lente.
+      - La imagen es siempre virtual, derecha y de menor tamaño respecto al objeto, sin importar la posición de este.
+    - - [ver recurso interactivo para ambos](https://www.geogebra.org/m/dpFzRedt)
 
-13. Ondas sísmicas:
+15. Tipos de imágenes:
+    - Según el lugar en el que se crean:
+      - virtual: imagen que se puede ver solo en la superficie del espejo o lente.
+      - real: imagen que se puede ver fuera del espejo o lente.
+    - Según la orientacion:
+      - derecha: no se cambia la orientacion. Si el objeto está de pie, la imagen aparece de pie.
+      - invertida: Si el objeto está de pie, la imagen está invertida, mirando hacia abajo.
+      - especular: se invierte el sentido u orientacion de izquierda a derecha, como en el espejo plano.
+    - Según el tamaño con respecto al tamaño del objeto:
+      - de igual tamaño.
+      - de menor tamaño.
+      - de mayor tamaño.
+
+16. Ondas sísmicas:
     - partes de un sismo:
         - hipocentro: es el punto donde se produce el sismo.
-        - epicentro: es el punto más cercano de la superficie al hipocentro.
+        - epicentro: es el punto más cercano de la superficie al hipocentro [ver esta página para ver ambos hipo y epicentro](https://www.youtube.com/watch?v=mwj925b_kB8).
     - Onda P: Es la primera onda que llega en un sismo, la más rápida y es una onda longitudinal. 
-    - Onda S: Es la segunda onda que llega en un sismo, la más lenta y es una onda transversal. Esta onda no se propaga por líquidos.
+    - Onda S: Es la segunda onda que llega en un sismo, la más lenta y es una onda transversal. Esta onda no se propaga por líquidos (para ver ambas ondas, [ver esta pagina](https://www.youtube.com/watch?v=CWAKIAOoWcE)). 
 
 
 
