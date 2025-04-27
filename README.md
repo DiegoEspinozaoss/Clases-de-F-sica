@@ -44,37 +44,76 @@ Ondas
 
 
 Recursos: 
-1. [Elementos de una onda](https://www.geogebra.org/m/sftghynw)
 
-2. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
+1. Definición de una onda:
+  - Una onda es sinónimamente llamada "oscilación", "perturbación", etc. y es el movimiento de un campo con respecto a un punto de equilibrio. Es decir, es un "ir y un venir en un medio material o fuera de él". No es más que un movimiento repetitivo y periódico en la mayoría de las veces. 
+2. Clasificación de las ondas
+   - según su duracion:
+     - Si la onda se propaga como un soliton, será un [pulso]().
+     - Si se propaga como una oruga, será una onda periódica.
+   - según sus límites de movimiento:
+     - si se propaga con sus límites físicos fijos, entonces es una onda estacionaria (como el caso del [agua "estacionaria"](https://www.youtube.com/shorts/qGdQcSvb2aE), [con una cuerda](https://www.youtube.com/shorts/rgbKz3rg4UY) o bien con [arena en el sonido](https://www.youtube.com/shorts/6P2SkEGlybo)).
+     - si lo hace sin límites, entonces es una onda viajera.
+   - según el medio de propagación:
+     - si necesita un medio físico para propagarse, entonces es una onda mecánica (como lo es por ejemplo el sonido, [que no se propaga en el vacio](https://www.youtube.com/watch?v=qioIFGWn-1Y)).
+     - si no necesita un medio físico, se llama onda electromagnetica y se propaga por el vacío.
+   - según la dimension que posee ([ver esta pagina](https://www.youtube.com/watch?v=gRdBZbxkmB8)):
+     - Es unidimensional, bidimensional o tridimensional respectivamente si el movimiento de la oscilacion se produce en 1, 2 o 3 direcciones. 
+   - según la direccion de propagación (ver los ejemplos de [esta página](https://www.geogebra.org/m/mPa2VW5g) y [en esta otra](https://www.youtube.com/watch?v=c2XjfcZ4T3A)):
+     - si se propaga como una oruga, entonces es una onda transversal.
+     - si se propaga como un resorte o como un tren de metro, entonces es una onda longitudinal. 
+   
+   
+3. [Elementos de una onda](https://www.geogebra.org/m/sftghynw)
+   - ciclo: es una oscilacion completa o una vuelta completa, desde un valle a un valle, un monte a un monte, etc.
+   - amplitud: es la mitad de la extensión vertical de un valle a un monte.
+   - longitud de onda: longitud o extension horizontal de un ciclo o vuelta completa.
+   - frecuencia: es la cantidad de ciclos completados en un segundo.
+   - período: es el tiempo en el que se demora la onda en completar un ciclo.
+   - rapidez de propagacion: es la rapidez con la que la onda se desplaza por el espacio.
+   - nodo: es el punto de una onda en el cual no existe amplitud.
+   - antinódo: es el punto de máxima amplitud.
+   - valle: es el punto más bajo de una onda.
+   - monte/cresta: es el punto más alto de una onda.
+   - punto de equilibrio: nivel con respecto al cual se produce la oscilacion.
+     
+
+3. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
   
-3. La resonancia:
+4. La resonancia:
   - [ejemplo 1: resonancia en el agua](https://www.youtube.com/shorts/3nGfzuaNcGI),
   - [ejemplo 2: resonancia en el vaso de cristal](https://www.youtube.com/watch?v=9Dp4PYcmA48)
   - [ejemplo 3: puente de Tacoma](https://www.youtube.com/watch?v=SzObC64E2Ag)
     
-4. [Efecto Doppler](https://www.geogebra.org/m/q2nmywav) también ver lo que pasaría en un [tanque de agua](https://www.geogebra.org/m/MhXH3vcu)
+5. [Efecto Doppler](https://www.geogebra.org/m/q2nmywav) también ver lo que pasaría en un [tanque de agua](https://www.geogebra.org/m/MhXH3vcu)
 
-5. [Dispersión y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
+6. [Dispersión y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
 
-6. Formación de los colores (teoría RGB):
+7. Formación de los colores (teoría RGB):
    - [Phet interactive resource](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=es)
    - [Geogebra resource](https://www.geogebra.org/m/zcwdnbkv)
 
 8. [Difracción de la luz](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html?locale=es)
 
-6. Interferencia:
+9. Interferencia:
    - [Ondas superficiales de agua](https://www.geogebra.org/m/wm46PXac)
    - [Interferencia Destructiva](https://www.geogebra.org/m/QyH5eeaN)
    - [Interferencia Constructiva](https://www.geogebra.org/m/gQBSEZ8s)
    - [Experimento de la doble rendija](https://www.geogebra.org/m/nxkcffkd)
 
-7. [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ)
+10. [Espectro de la luz](https://www.geogebra.org/m/BeVUp5yZ)
    
 
-9. [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
+11. [Espejos concavos y convexos](https://www.geogebra.org/m/CJS4Q4SM)
 
-10. [Lentes Divergentes y convergentes](https://www.geogebra.org/m/dpFzRedt)
+12. [Lentes Divergentes y convergentes](https://www.geogebra.org/m/dpFzRedt)
+
+13. Ondas sísmicas:
+    - partes de un sismo:
+        - hipocentro: es el punto donde se produce el sismo.
+        - epicentro: es el punto más cercano de la superficie al hipocentro.
+    - Onda P: Es la primera onda que llega en un sismo, la más rápida y es una onda longitudinal. 
+    - Onda S: Es la segunda onda que llega en un sismo, la más lenta y es una onda transversal. Esta onda no se propaga por líquidos.
 
 
 
