@@ -52,6 +52,10 @@ Historia de la luz:
    - valle: es el punto más bajo de una onda.
    - monte/cresta: es el punto más alto de una onda.
    - punto de equilibrio: nivel con respecto al cual se produce la oscilacion.
+  Además, podemos mencionar varios conceptos clave de las ondas:
+   - timbre: es la cualidad que hace que podamos distinguir dos notas idénticas en dos instrumentos o emisores distintos. 
+   - tono: es proporcional a la frecuencia (de hecho, es un sinónimo de ella)
+   - intensidad: es proporcional al volumen en el caso del sonido.
      
 
 3. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
