@@ -19,10 +19,10 @@ Historia de la luz:
   - Teoría de Newton de la luz: corpúsculos o puntos de materia.
   - Teoría de Huygens de la luz: onda u oscilación.
   - Teoría moderna: la luz tiene una dualidad onda-corpúsculo.
-  - Cálculo de la velocidad de la luz, antes se pensaba que la luz tenía una velocidad infinita. El primero en usar la observación de un fenómeno astronómico para demostrar que la luz no tiene velocidad infinita fue Ole Rømer (1644–1710), un astrónomo danés. Utilizando las observaciones de los eclipses de Ío, una de las lunas de Júpiter. Rømer notó que el tiempo entre las ocultaciones de Ío variaba según la posición relativa de la Tierra y Júpiter en sus órbitas. Cuando la Tierra se alejaba de Júpiter, los eclipses de Ío parecían retrasarse; cuando la Tierra se acercaba, parecían adelantarse. De ahí concluyó que la luz tardaba un tiempo finito en recorrer distancias astronómicas. En 1676, estimó el tiempo que la luz tardaba en cruzar el diámetro de la órbita de la Tierra en unos 22 minutos (hoy sabemos que son aproximadamente 16,6 minutos).
+  - Cálculo de la velocidad de la luz, antes se pensaba que la luz tenía una velocidad infinita. El primero en usar la observación de un fenómeno astronómico para demostrar que la luz no tiene velocidad infinita fue Ole Rømer (1644–1710), un astrónomo danés. Utilizando las observaciones de los eclipses de Ío, una de las lunas de Júpiter. Rømer notó que el tiempo entre las ocultaciones de Ío variaba según la posición relativa de la Tierra y Júpiter en sus órbitas. Cuando la Tierra se alejaba de Júpiter, los eclipses de Ío parecían retrasarse; cuando la Tierra se acercaba, parecían adelantarse. De ahí concluyó que la luz tardaba un tiempo finito en recorrer distancias astronómicas. En 1676, estimó el tiempo que la luz tardaba en cruzar el diámetro de la órbita de la Tierra en unos 22 minutos (hoy sabemos que son aproximadamente 16,6 minutos). Ver [este video para entender un poco mejor](https://www.youtube.com/watch?v=m3WYFY9GmRo)
 
 1. Definición de una onda:
-  - Una onda es sinónimamente llamada "oscilación", "perturbación", etc. y es el movimiento de un campo con respecto a un punto de equilibrio. Es decir, es un "ir y un venir en un medio material o fuera de él". No es más que un movimiento repetitivo y periódico en la mayoría de las veces. 
+  - Una onda es sinónimamente llamada "oscilación", "perturbación", etc. y es el movimiento de un campo con respecto a un punto de equilibrio. Es decir, es un "ir y un venir en un medio material o fuera de él". No es más que un movimiento repetitivo y periódico en la mayoría de las veces. Algo importante de decir de una onda en general: no transporta materia o masa, sino solamente energía o movimiento. 
 2. Clasificación de las ondas
    - según su duracion:
      - Si la onda se propaga como un soliton, será un [pulso]().
@@ -112,7 +112,7 @@ Historia de la luz:
         - hipocentro: es el punto donde se produce el sismo.
         - epicentro: es el punto más cercano de la superficie al hipocentro [ver esta página para ver ambos hipo y epicentro](https://www.youtube.com/watch?v=mwj925b_kB8).
     - Onda P: Es la primera onda que llega en un sismo, la más rápida y es una onda longitudinal. 
-    - Onda S: Es la segunda onda que llega en un sismo, la más lenta y es una onda transversal. Esta onda no se propaga por líquidos (para ver ambas ondas, [ver esta pagina](https://www.youtube.com/watch?v=CWAKIAOoWcE)). 
+    - Onda S: Es la segunda onda que llega en un sismo, la más lenta y es una onda transversal. Esta onda no se propaga por líquidos. Sin embargo, esta onda traslada más energia que la onda P, y es la que sentimos con mayos intensidad al momento de un sismo. (para ver ambas ondas, [ver esta pagina](https://www.youtube.com/watch?v=CWAKIAOoWcE)). 
 
 
 
