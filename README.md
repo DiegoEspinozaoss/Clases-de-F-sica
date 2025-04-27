@@ -47,7 +47,8 @@ Recursos:
 - [Elementos de una onda](https://www.geogebra.org/m/sftghynw)
 
 - [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
-- [Efecto Doppler](https://www.geogebra.org/m/q2nmywav)
+- La resonancia: [ejemplo 1: resonancia en el agua](https://www.youtube.com/shorts/3nGfzuaNcGI), [ejemplo 2: ]()
+-  [Efecto Doppler](https://www.geogebra.org/m/q2nmywav)
 - [Dispersión y los prismas transparentes](https://www.geogebra.org/m/ee74gmr3)
 - [Interferencia Destructiva y Constructiva](https://www.geogebra.org/m/wm46PXac)
 - [Interferencia Destructiva](https://www.geogebra.org/m/QyH5eeaN)
