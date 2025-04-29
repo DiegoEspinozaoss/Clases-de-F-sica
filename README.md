@@ -59,7 +59,7 @@ Historia de la luz:
    - intensidad: es proporcional al volumen en el caso del sonido.
      
 
-3. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5)
+3. [Reflexión y Refraccion](https://www.geogebra.org/m/rhszbfd5) En el caso del sonido la reflexión se clasifica como eco (que son varias reflexiones cuyo sonido se entiende) y reverberación (que son varias reflexiones cuyo sonido no se entiende, es decir, es ruidoso). 
   
 4. La resonancia:
   Fenómeno por el cual una onda excita un objeto a su frecuencia natural. La frecuencia natural es aquella frecuencia o tono, o cantidad de ciclos por segundo que el cuerpo necesita vibrar para que se pueda producir una pérdida de la estructura o solidez material. 
