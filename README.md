@@ -16,9 +16,10 @@ Ondas
 
 
 Historia de la luz:
-  - Teoría de Newton de la luz: corpúsculos o puntos de materia.
-  - Teoría de Huygens de la luz: onda u oscilación.
-  - Teoría moderna: la luz tiene una dualidad onda-corpúsculo.
+  - Teoría de Isaac Newton (1643-1727) de la luz: corpúsculos o puntos de materia. Para una explicacion más detallada visitar [esta página](https://museovirtual.csic.es/salas/luz/luz26.htm)
+  - Teoría de Christiaan Huygens (1629-1695) de la luz: onda u oscilación. Para más informacion de este cientifico leer [esta página](https://museovirtual.csic.es/salas/luz/luz27.htm)
+  - Teoría moderna: la luz tiene una dualidad onda-corpúsculo. Es decir, ["se comporta como onda, y también en otras circunstancias como si fuera partícula" (visitar la página)](https://definicion.de/dualidad-onda-particula/)
+    
   - Cálculo de la velocidad de la luz, antes se pensaba que la luz tenía una velocidad infinita. El primero en usar la observación de un fenómeno astronómico para demostrar que la luz no tiene velocidad infinita fue Ole Rømer (1644–1710), un astrónomo danés. Utilizando las observaciones de los eclipses de Ío, una de las lunas de Júpiter. Rømer notó que el tiempo entre las ocultaciones de Ío variaba según la posición relativa de la Tierra y Júpiter en sus órbitas. Cuando la Tierra se alejaba de Júpiter, los eclipses de Ío parecían retrasarse; cuando la Tierra se acercaba, parecían adelantarse. De ahí concluyó que la luz tardaba un tiempo finito en recorrer distancias astronómicas. En 1676, estimó el tiempo que la luz tardaba en cruzar el diámetro de la órbita de la Tierra en unos 22 minutos (hoy sabemos que son aproximadamente 16,6 minutos). Ver [este video para entender un poco mejor](https://www.youtube.com/watch?v=m3WYFY9GmRo)
 
 1. Definición de una onda:
