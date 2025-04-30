@@ -162,9 +162,19 @@ Historia de la luz:
 
 
 
+Aplicaciones de la luz:
+- Televisor
+- Teléfono
+- radio
+- rayo laser
+- tomografia
+Aplicaciones del sonido: 
+- telescopio refractor
+- telescopio reflector
+- radio telescopios
+- horno de micro ondas
 
-
-
+---
 ---
 
 Mecánica
@@ -173,6 +183,82 @@ Mecánica
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 2 fisica.png" alt="Alt text" width="600" height="400">
 </p>
 
+Algunas definiciones: 
+- Vector: objeto matemático que tiene magnitud, sentido y dirección.
+
+- Inercia: principio por el cual un cuerpo mantiene su estado de movimiento o 
+rotación. 
+ 
+- Fuerza: aquel sujeto que puede producir un cambio de movimiento en un cuerpo. La fuerza 
+Es descrita matemáticamente como un vector, con magnitud, dirección y sentido.  
+ 
+- Fuerza neta (o fuerza total): la suma de todas las fuerzas que actúan sobre un cuerpo.   
+ 
+- Cinético: describe un objeto o cantidad física asociada al movimiento. Por ejemplo: roce 
+Cinético o energía cinética.  
+ 
+- Estático: Describe un objeto o cantidad física asociada a la quietud.  
+---
+Leyes de Newton: 
+1. Primera Ley de Newton: "Todos los cuerpos permanecen en el estado de movimiento o de reposo,
+   A menos que una fuerza exterior a él lo haga quedarse quieto o moverse, respectivamente". Dicho
+   De otra manera, un cuerpo se mueve porque no hay nada que lo aquiete, y algo que está quieto está
+   Quieto porque no hay nada que lo esté moviendo. Se llama ley de inercia, porque los cuerpos
+   Permanecen con la inercia con la que originalmente se mueven. Por ejemplo, decimos en el lenguaje
+   Cotidiano que actuamos por inercia porque no hay nada que nos mueva de nuestro estado.
+   
+   Si no existiera la ley de inercia, entonces los objetos quietos podrían moverse sin ningún obstáculo, de la misma manera en que los objetos en movimiento podrían quedarse
+   quietos. Por ejemplo, si saltase de un auto que va a 300 km/hr quedaría quieto al instante, o bien, si choco andando en bicicleta no salgo disparado nunca. En otras palabras,
+   como el planeta tierra gira, al saltar me trasladaría a china, al quedar suspendido en el aire. O aquello que está quieto, estaría quieto siempre incondicionalmente, o bien
+   podría empezar a moverse sin ninguna condición. Dicho de otra manera, cualquier cosa podría moverse o quedarse quieta para siempre. Si todo estuviera quieto para siempre, nada
+   sucedería, si todo estuviera moviéndose, entonces todo sucedería. Sería imposible detener un tren, un auto, un planeta, todo movimiento sería inevitable, etc. Toda quietud sería
+   necesaria.  
+
+2. Segunda Ley de Newton: "La aceleración de un cuerpo es directamente proporcional a la fuerza neta
+   Que actúa sobre él e inversamente proporcional a la masa del mismo. La aceleración tiene la misma
+   Dirección y sentido que la fuerza neta." ¿Cuál es la diferencia entre aceleración y fuerza? La fuerza es
+   Causa exteriormente de la aceleración del cuerpo, mientras que la aceleración corresponde al cambio
+   De la velocidad del mismo. Un cuerpo que se mueve con velocidad constante, tiene aceleración cero,
+   Porque su velocidad no cambia. En cambio, un cuerpo que se mueve acelerando (como un auto), tiene
+   Una aceleración distinta de cero.
+   
+   Si no existiera la segunda ley de Newton, entonces, al empujar un cuerpo con una fuerza en una dirección, el cuerpo se podría mover acelerado en la dirección opuesta, o
+   bien cualquier otra cosa. Si empujaras la pared, te aplastaría. O bien, si intento saltar, entonces mas bien me hundo. O bien, si empujo un elefante con la misma fuerza con la
+   que empujo a un niño de 5 años, se moverá igual de rápido. Si no existiera dicha ley, entonces al empujar dos personas una caja, no se movería más rápido que si una persona la
+   moviera sola. Entonces no existiría la gravedad, porque es un efecto de la acumulación de las fuerzas de todas las moléculas que tienen materia en el planeta. Si no existiera
+   gravedad, no existiría el sistema solar, etc.
+3.  Tercera ley de Newton: "Para toda acción aplicada a un cuerpo, existe una reacción con la misma dirección y con sentido opuesto". Toda fuerza se Llama alternativamente acción, mientras que la fuerza que se opone al movimiento es la reacción. Por Ejemplo, la fuerza normal es una reacción a la fuerza de gravedad que es la acción. Además, la fuerza De roce es la reacción a la acción de la fuerza que se le aplica a un cuerpo para empujarlo. Esta es la Razón por la que si alguien me golpea, la persona obtendrá una herida y un hematoma en su puño.  
+Si no existiera la tercera ley de Newton, entonces al estar de pie existiría solo el peso sobre mi cuerpo, pero no la fuerza normal que me empuja hacia arriba. Por lo que me hundiría en el piso rompiéndolo. Además, si empujase cualquier cosa la atravesaría, al no haber fuerza de reacción. No podríamos estar sentados hablando. Literalmente, todas las cosas se atravesarían, no existirían planetas, estrellas, galaxias, etc. Al no haber tensión que resistiera el movimiento de mi brazo, mi brazo saldría eyectado de mi cuerpo. Al no haber reacción que sostuviese la sangre en movimiento de mi cuerpo, toda ella saldría disparada atravesando mis células. Y en general, así con todas las cosas que se mueven dentro de un recipiente.
+
+4. Anexo: Diagrama (o dibujo) de Cuerpo Libre: Consiste en reducir un cuerpo a un punto sobre el cual actúan  diversas fuerzas, que si son sumadas se obtiene la fuerza neta.  En el caso de la caja en un plano inclinado, podemos decir que existen tres fuerzas actuando sobre ella: fuerza peso, fuerza de roce y fuerza normal. La de peso siempre apunta verticalmente hacia abajo, la de roce siempre en contra del movimiento, y la normal siempre normal o perpendicular a la superficie en la cual se ubica el objeto (en este caso, la caja).
+
+Tipos de Fuerzas:
+
+1. Fuerzas de Reaccion
+   - Fuerzas de roce
+     - Roce estático: Es la fuerza de roce que se opone al movimiento Y que existe justo antes del movimiento. 
+ 
+     - Roce cinético: Es la fuerza de roce que se opone al movimiento Y que existe justo después del movimiento.  
+ 
+     - Fuerza de Roce con el aire: El aire presenta una oposición al movimiento De cualquier objeto, es un tipo de la fuerza de roce cinético. 
+   - Fuerzas normales
+2. Fuerzas Análogas:
+   - Fuerza Peso: Es la fuerza que produce la aceleración de la gravedad, y que es Directamente proporcional a la masa del cuerpo. Siempre su dirección es vertical 
+   - Fuerza Elástica: Según la ley de Hooke, la fuerza de un resorte o elástico es Directamente proporcional a la elongación del mismo con respecto al punto De equilibrio.  
+   - Tensión: Fuerza de reacción que aparece en el movimiento de péndulos y otros Objetos rígidos.  
+   - Normal: Fuerza de reacción que se opone a la fuerza peso. 
+
+
+
+
+
+
+
+
+
+
+
+---
 ---
 
 Energía y Tierra
@@ -181,6 +267,7 @@ Energía y Tierra
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 3 fisica.png" alt="Alt text" width="600" height="400">
 </p>
 
+---
 ---
 
 Electricidad
