@@ -267,6 +267,65 @@ Energía y Tierra
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 3 fisica.png" alt="Alt text" width="600" height="400">
 </p>
 
+Algunas definiciones:
+1. Calor: Energía calorífica de un cuerpo. Se puede transferir, porque la energía se puede transferir. Es como el dinero de una persona, si se puede transferir. Es algo que se puede compartir. Se puede absorber o ceder. Se mide en calorías, Joules (o julios), etc. 
+ 
+2. Temperatura: otra cosa. No se puede transferir. Es como el color de piel de cada persona, no se puede transferir. Es algo que no se puede compartir. Se mide en Celsius, Kelvin, etc. estas diferencias son las diferencias entre una regla de centímetros, milímetros, etc. 
+ 
+3. Escala: es sinónimo de termómetro o regla. Tienen exactamente el mismo funcionamiento. 
+La "regla" del tiempo es el reloj, la "regla" de la temperatura es el termómetro, la "regla" 
+De la rapidez es el velocímetro, la "regla" de la fuerza es el dinamómetro, la "regla" de la distancia 
+Es la distancia (xd). 
+---
+
+1. Dilatación Térmica: Los objetos más calientes suelen estar más dilatados (y por lo tanto alargados) en todas sus dimensiones. Cuando se enfrían están contraídos en todas sus
+   dimensiones.
+2. Modelo Cinético de la materia:
+   - La energía térmica de un material es directamente proporcional a la cantidad de  
+Movimiento de todas sus partículas en conjunto.
+   - Ley 0 de la termodinamica
+   - Enunciado de Clausius
+   - Dicho de otra manera, en un sistema de dos componentes, no es posible que aumente la temperatura del cuerpo que tiene mayor temperatura, ni que disminuya la temperatura del cuerpo que tiene menor temperatura.
+  
+3. Ley de conservacion de la energía:
+   - Tipos de sistemas:
+     - Abierto
+     - Cerrado
+     - Aislado
+   - Ley: En un sistema aislado la energía no se crea ni se destruye, solo se transforma en otros tipos de energía. En un sistema abierto la energía no se conserva, como tampoco lo hace en un sistema cerrrado. En ambos, el calor cedido al ambiente es igual al calor que el ambiente absorbe, y viceversa.
+
+4. Fórmula de Calor Latente:
+   - historia: El término Calor latente fue acuñado o usado por primera vez por Joseph Black  
+En 1750 al estudiar las condiciones de presión y temperaturas necesarias para destilar 
+El whisky escocés.
+   - cambios de fases:
+     - vaporizacion o ebullición
+     - condensacion
+     - sublimacion
+     - deposicion
+     - solidificacion
+     - fusion
+   - formula:
+
+5. Formas de transferencia de calor:
+   - Conducción: transferencia de calor mediante el contacto de sólidos o líquidos.  
+   - Convección: transferencia de calor mediante la presencia de corrientes en el fluido, ya sea En líquidos o gases.  
+   - Radiación: transferencia de energía mediante fotones (que son radiación) que disipan la energía En diferentes líneas de emisión: rayos X, infrarrojo, ultravioleta, etc. 
+6. Deriva Continental:
+   - La deriva continental es la hipótesis que describía el desplazamiento de las masas continentales unas respecto a otras, desarrollada en 1912 por el alemán Alfred Wegener a partir de diversas observaciones empírico-racionales.
+   - Escalas:
+     - Escala de Richter: Es una escala cuantitativa que mide en magnitudes la intensidad de un sismo. En 1935 Charles Francis Richter inventó la escala con ayuda de Beno Gutenberg 
+     - Escala de Mercalli: Es una escala cualitativa que mide en términos de daños estructurales el impacto de un sismo. Esta escala fue inventada por Giuseppe Mercalli (1850-1914), sismólogo y sacerdote italiano.
+
+7. Fenómenos climáticos (evaluable solo en ME):
+   - Causas naturales:
+     - presión
+     - temperatura
+   - Causas antropogenicas
+
+
+
+
 ---
 ---
 
@@ -275,3 +334,7 @@ Electricidad
 <p align="center">
 <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen ejercicios bloque 4 fisica.png" alt="Alt text" width="600" height="400">
 </p>
+
+Algunas definiciones:
+
+
