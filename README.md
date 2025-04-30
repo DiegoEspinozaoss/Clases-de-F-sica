@@ -12,8 +12,48 @@ Ondas
   <img src="https://github.com/DiegoEspinozaoss/Clases-de-F-sica/blob/main/imagen%20ejercicios%20bloque%201%20fisica.png?raw=true" alt="Alt text" width="2500" height="800">
 </p>
 
-
-
+Algunas Definiciones: 
+- Tren de ondas: varios pulsos consecutivos. Se dice tren porque un tren tiene varios carriles, en este caso, tiene varios pulsos.  
+ 
+- Campo: objeto material o inmaterial que puede ser perturbado. Por ejemplo, el campo magnético o eléctrico. 
+ 
+- Mecánico: objeto físico, material, presente en algún estado de la materia como sólido, líquido, etc. Por ejemplo, es lo mismo decir física clásica que mecánica clásica, o física que mecánica, o física cuántica que mecánica cuántica.  
+ 
+- Fenómeno: comportamiento físico de algún objeto. Así, se dice que alguien es un fenómeno porque tiene un comportamiento extraño. 
+ 
+- Unidad de Medida: cantidad unitaria que mide una cantidad física, es decir, responde a la pregunta: ¿en qué se mide, o cómo se mide una cantidad? Por ejemplo: la unidad de medida del tiempo es el segundo, la de la masa es el kilogramo, la de la distancia es el metro, la de la rapidez es metros por segundo, etc. 
+ 
+- Medio: camino o trayectoria física o inmaterial por el cual se desplaza un cuerpo en el espacio. Por ejemplo, el medio entre la tierra y el sol es el espacio, porque la tierra necesitaría moverse en el espacio para llegar al sol.  
+ 
+- Ley: Es aquella expresión de la relación de dos o más cantidades físicas que nos permite decir que algo es siempre lo mismo. Por ejemplo, la ley que habla de los que conducen, significa que esa ley siempre funciona y en todos lugares. Así, la ley de la gravedad es ley porque funciona siempre y en todos lados. Así, se dice que Dios es la ley porque el gobierna todas las cosas. Así se dice que la palabra de un rey es la ley porque gobierna todas las cosas. Así, se dice que la constitución es en parte ley porque gobierna las relaciones entre los hombres.  
+ 
+- Modelo: sinónimo de teoría. Por ejemplo, es lo mismo decir teoría del big bang que modelo del big bang, solamente que modelo hace referencia a su forma, mientras que teoría se refiere a aquel modelo que debe ser probado para ser aprobado (y pasar a ser ley) o ser rechazado del todo.  
+ 
+- Diseño Experimental: Diseño o preparación de un experimento para comprobar si una teoría es correcta y así pasar a ser ley.  
+Superficie: En general es lo mismo que área de un cuerpo, es decir, lo que exteriormente se puede ver.  
+ 
+- Superficie pulida: Superficie que está "limada" como algunos metales (entre ellos el aluminio de los espejos), de tal suerte que se vuelve una superficie que refleja de manera precisa las imágenes de los objetos.  
+ 
+- Dimensión: Dirección por la cual se puede extender un objeto u onda o transferir energía. Por ejemplo, se suele decir que en nuestro espacio existen tres dimensiones, aunque existen físicos que dicen que existen 11. 
+ 
+- Fuente:  Lugar u objeto del que procede algo. Por ejemplo, fuente luminosa: objeto de donde proviene la luz. Fuente sonora: objeto de donde se produce el sonido.  
+ 
+- Patrón: Serie de características que se repiten espacial o temporalmente. Por ejemplo, las flores tienen un patrón la cantidad de pétalos que cada una tiene sigue la serie de Fibonacci: 1,1,,2,3,5,8,etc. 
+ 
+- Periódico: algo que se repite temporalmente (es decir, en función del tiempo). Por ejemplo, el diario es periódico porque se imprime continuamente, etc. 
+ 
+- Dirección: inclinación de una recta imaginaria por la cual existen dos sentidos contrarios. Por ejemplo, la dirección vertical tiene dos sentidos: arriba y abajo. La dirección horizontal tiene dos sentidos: izquierda y derecha. 
+ 
+- Partícula: es un punto material, o punto de materia que puede tener masa. Por ejemplo, el electrón es una partícula porque es un punto del espacio que contiene masa.  
+ 
+- Propagación: movimiento de una onda o energía. Así, el calor se propaga, y la luz se propaga porque es una onda.  
+ 
+- Clasificación: Orden o diferentes categorías en las que se diferencian objetos de una misma especie. Por ejemplo, los triángulos se clasifican en rectángulos, acutángulos u obtusángulos según el ángulo mayor que tengan. Las especies de animales se clasifican como vertebrados o invertebrados según tengan estructura ósea o no la tengan.  
+ 
+- Espectro: clasificación en diversos grados sucesivos de algo. Por ejemplo: espectro autista (varios grados), espectro de la luz (infrarrojo, ultravioleta, etc), espectro se usa como sinónimo de rango.  
+ 
+- Energía: Por lo general, describe la cantidad física de un cuerpo que le permite cambiar su estado de movimiento o su posición. Es decir, la energía es todo aquello en un cuerpo que le permite pasar de un estado a otro. Por ejemplo, el calor  es energía, y el hielo tiene menos calor que el agua, por lo que tiene menos energía.  
+---
 
 Historia de la luz:
   - Teoría de Isaac Newton (1643-1727) de la luz: corpúsculos o puntos de materia. Para una explicacion más detallada visitar [esta página](https://museovirtual.csic.es/salas/luz/luz26.htm)
