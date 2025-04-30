@@ -337,4 +337,66 @@ Electricidad
 
 Algunas definiciones:
 
+1. Secuencia Triboeléctrica:  
+Se denomina triboelectricidad (del griego tribein, "frotar"​ y ἤλεκτρον, electrón, "ámbar") al fenómeno de electrización por frotamiento. 
+ 
+2. Electrificación: Se refiere al proceso por el cual se van reemplazando funciones mediante la producción de energía eléctrica (a nivel de sociedad). 
+ 
+3. Electrización: Que un cuerpo neutro o no eléctricamente adquiera o fuerce la carga de otro cuerpo.  
+ 
+4. Polarización: Creación de cargas eléctricas parciales en un objeto neutro debido a la presencia de un cuerpo cargado. 
+ 
+5. Generador eólico: generador de energía eléctrica mediante imanes que transforman la energía mecánica en energía eléctrica, utilizando un imán.  
+ 
+6. Tecnología: artefacto tecnológico que aprovecha algún principio físico para servir a los fines del hombre.  
+ 
+7. Aparato de medición: tecnología que nos permite medir la magnitud de una variable física, como el Voltímetro para medir el voltaje, el amperímetro para medir la intensidad de corriente, el dinamómetro para medir la fuerza, el termómetro para medir la temperatura, el reloj para medir el tiempo, la regla para medir la distancia, etc.  
+
+---
+1. Métodos de electrizacion de cuerpos:
+   - Frotamiento, frotación o fricción: flujo de cargas eléctricas entre dos cuerpos al ser friccionados. Una nube con una nube, una nube consigo misma, etc. Una mano con otra mano, etc. En general se puede decir que los dos objetos son neutros (ambos adquieren su carga debido a la fricción entre ambos).  
+   - Por contacto: Al tocar un cable cargado, ya sea negativamente o positivamente existe una  
+Transferencia de electrones libres (ya que en el átomo no todos los electrones se pueden ceder 
+O compartir, solamente los de valencia, en particular, los electrones de valencia son como el dinero que uno no ahorra, y los demás son como el dinero ahorrado, no se tocan). En los tres tipos de electrización solamente se toman en cuenta los electrones libres que se encuentran en la capa de valencia.  
+   - Por inducción: sin la necesidad de que dos cosas se toquen, pues existe una fuerza electromagnética invisible que atraviesa o permea el espacio y atrae cargas opuestas. Ojo! La carga neutra o carga nula no tiene carga opuesta, por eso no puede atraer o repeler ninguna cosa. El neutrón es como alguien que se come toda la comida de la mamá, otros niños son como el protón o el electrón. También se llama polarización eléctrica. Ver el ejemplo de los audífonos.
+
+2. Conducción Eléctrica:
+   - Aislantes: son conductores pero con mayor resistencia eléctrica que los conductores. Al contrario 
+De los conductores, presentan dificultad para la libertad de movimiento de los electrones de la capa 
+Exterior.
+     - [Superaislantes](https://www.nature.com/articles/s41598-018-22451-1 ): En teoría un superaislante es un material que tiene una resistencia infinita al paso de corriente eléctrica. 
+   
+   - Conductores: son materiales que tienen baja resistencia a la electricidad. Dicho en las palabras anteriores, los materiales que son más susceptibles de ser conductores son aquellos que tienen más facilidad para dejar que los electrones de su capa más exterior se muevan por el medio. Por lo general los metales son buenos conductores.
+     - Superconductores: Conductores que bajo ciertas condiciones de temperatura y presión, tienden a presentar Una resistencia eléctrica nula o casi nula, y sin pérdidas de energía (por efecto Joule). Podemos decir que por debajo de cierta temperatura crítica se comportan así. Fue descubierto por Heike Kamerlingh Onnes (físico neerlandés) en 1911. Ejemplo con LK-99: (del estudio de Lee-Kim 1999) es un compuesto policristalino negro-grisáceo, obtenido mediante el dopaje de apatito de plomo con cobre, que al parecer se fabricó en 1999 por coreanos. Se dice que a 127 ° C podría funcionar como un superconductor. Lo que les interesa actualmente a los físicos de esta área de investigación es descubrir algún compuesto que a temperatura ambiente comporte como superconductor, para la manipulación humana. Sin embargo, hasta la actualidad no se ha podido reproducir dicho fenómeno para LK-99.  
+ 
+ A continuación podemos ver el efecto Meissner:  
+   - los electrones de valencia del átomo de oxígeno dependen de las últimas dos capas o "niveles de energía". Recordemos que la teoría aceptada acualmente es aquella que dice que los átomos son como nubes en cuyo centro se concentran los protones y neutrones en su núcleo, mientras que los electrones se encuentran difusos como las gotitas de agua alrededor del mismo.
+
+3. Circuitos Eléctricos:
+   - Partes:
+     - La resistencia (denotada por R) es como la masa (resistencia al movimiento), solo que es la resistencia al flujo de electricidad.  Se mide en Ohmios (u Ohms)
+     - La intensidad de corriente se mide en Amperes, mientras más intensidad eléctrica, hay un mayor flujo de cargas por unidad de tiempo. Se mide en coulomb/tiempo. Amperio/Ampere. Paradojalmente, el flujo de electrones se da en el sentido opuesto al sentido de la corriente eléctrica. Es como preguntarse por qué el polo norte magnético de la tierra está en el polo sur geográfico de la misma, y es que debe ser por cómo se definieron ambas cosas.
+     - Carga: tiene unidad de medida Coulomb (o culombios), y se refiere a la cantidad de cargas eléctricas que tiene una partícula o un conjunto de partículas.  En algunos contextos la carga se refiere particularmente al electrón. Curiosamente el electrón tiene la misma carga pero de sentido opuesto que la del protón. La masa y la carga de las partículas varían. Por ejemplo, la masa de un electrón es menor que la de un protón, pero igual en carga. El neutrón no tiene carga, pero tiene mayor masa que el protón.
+     - El voltaje es una cantidad que se define como la tensión, o la diferencia de potencial eléctrico entre dos puntos de un cuerpo. Si no hay diferencia, es decir, si el cuerpo es homogéneo, entonces no hay voltaje. El voltaje por lo general se representa como la fuerza electromotriz, o también conocido como la batería (que tiene un polo negativo y otro positivo). Volt/ Voltios.
+     - Energía: Capacidad de un cuerpo de realizar un trabajo O un esfuerzo (en general, los profesores de universidad tienen dificultades para definir este mismo término). Joules/julios [J] o también kilowatts hora (kWh)
+     - Potencia: Cantidad de energía que se utiliza por unidad de tiempo. También implica cuán rápido o cuán lento gasta energía un objeto en función del tiempo. Watts/Vatios. En general la potencia es directamente proporcional a la luminosidad de la fuente (que representa la resistencia).
+   - Ley de Ohm: La intensidad de la corriente eléctrica que circula por un conductor eléctrico es  
+Directamente proporcional al voltaje aplicado e inversamente proporcional a la resistencia del mism
+   - Circuito Equivalente: un circuito equivalente 
+Es un circuito que funciona virtualmente igual que el circuito original. Así mismo, en ciencias se usa la palabra equivalente para describir a dos procesos cualesquiera que son indistinguibles según algún aspecto.
+   - Circuito en paralelo: las resistencias se disponen de manera paralela.
+   - Circuito en Serie: las resistencias se disponen de manera serial.
+
+4. Tipos de corrientes:
+   - efecto Joule
+   - la guerra de las corrientes del siglo XX
+     - historia:
+     - corriente alterna
+     - corriente continua
+
+5. Artefactos Electrónicos
+6. Tecnologias
+7. Fuerzas Electrostáticas.
+   
+     
 
