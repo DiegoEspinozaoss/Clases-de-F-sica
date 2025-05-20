@@ -199,7 +199,7 @@ Cinético o energía cinética.
  
 - Estático: Describe un objeto o cantidad física asociada a la quietud.  
 ---
-Leyes de Newton: 
+[Leyes de Newton](https://www.youtube.com/watch?v=_X-BTbwj3xU): 
 1. Primera Ley de Newton: "Todos los cuerpos permanecen en el estado de movimiento o de reposo,
    A menos que una fuerza exterior a él lo haga quedarse quieto o moverse, respectivamente". Dicho
    De otra manera, un cuerpo se mueve porque no hay nada que lo aquiete, y algo que está quieto está
@@ -212,9 +212,16 @@ Leyes de Newton:
    como el planeta tierra gira, al saltar me trasladaría a china, al quedar suspendido en el aire. O aquello que está quieto, estaría quieto siempre incondicionalmente, o bien
    podría empezar a moverse sin ninguna condición. Dicho de otra manera, cualquier cosa podría moverse o quedarse quieta para siempre. Si todo estuviera quieto para siempre, nada
    sucedería, si todo estuviera moviéndose, entonces todo sucedería. Sería imposible detener un tren, un auto, un planeta, todo movimiento sería inevitable, etc. Toda quietud sería
-   necesaria.  
+   necesaria.
 
-2. Segunda Ley de Newton: "La aceleración de un cuerpo es directamente proporcional a la fuerza neta
+   [Ejemplo 1](https://www.youtube.com/shorts/2WFwtuGGuqc)
+   [Ejemplo 2](https://www.youtube.com/shorts/ToBsTh8rsXs)
+   [Ejemplo 3](https://www.youtube.com/shorts/xALaM3YhH5o)
+   [Ejemplo 4](https://www.youtube.com/shorts/FLm0kLhJz7w)
+   [Ejemplo 5](https://www.youtube.com/shorts/4dYQBYrsOVk)
+   [Ejemplo 6](https://www.youtube.com/shorts/Wn7wvt-zoNQ)
+
+3. Segunda Ley de Newton: "La aceleración de un cuerpo es directamente proporcional a la fuerza neta
    Que actúa sobre él e inversamente proporcional a la masa del mismo. La aceleración tiene la misma
    Dirección y sentido que la fuerza neta." ¿Cuál es la diferencia entre aceleración y fuerza? La fuerza es
    Causa exteriormente de la aceleración del cuerpo, mientras que la aceleración corresponde al cambio
@@ -227,18 +234,24 @@ Leyes de Newton:
    que empujo a un niño de 5 años, se moverá igual de rápido. Si no existiera dicha ley, entonces al empujar dos personas una caja, no se movería más rápido que si una persona la
    moviera sola. Entonces no existiría la gravedad, porque es un efecto de la acumulación de las fuerzas de todas las moléculas que tienen materia en el planeta. Si no existiera
    gravedad, no existiría el sistema solar, etc.
-3.  Tercera ley de Newton: "Para toda acción aplicada a un cuerpo, existe una reacción con la misma dirección y con sentido opuesto". Toda fuerza se Llama alternativamente acción, mientras que la fuerza que se opone al movimiento es la reacción. Por Ejemplo, la fuerza normal es una reacción a la fuerza de gravedad que es la acción. Además, la fuerza De roce es la reacción a la acción de la fuerza que se le aplica a un cuerpo para empujarlo. Esta es la Razón por la que si alguien me golpea, la persona obtendrá una herida y un hematoma en su puño.  
+
+   [Ejemplo 1](https://www.youtube.com/shorts/UPz0MQPS5lY)
+   
+   
+4.  Tercera ley de Newton: "Para toda acción aplicada a un cuerpo, existe una reacción con la misma dirección y con sentido opuesto". Toda fuerza se Llama alternativamente acción, mientras que la fuerza que se opone al movimiento es la reacción. Por Ejemplo, la fuerza normal es una reacción a la fuerza de gravedad que es la acción. Además, la fuerza De roce es la reacción a la acción de la fuerza que se le aplica a un cuerpo para empujarlo. Esta es la Razón por la que si alguien me golpea, la persona obtendrá una herida y un hematoma en su puño.  
 Si no existiera la tercera ley de Newton, entonces al estar de pie existiría solo el peso sobre mi cuerpo, pero no la fuerza normal que me empuja hacia arriba. Por lo que me hundiría en el piso rompiéndolo. Además, si empujase cualquier cosa la atravesaría, al no haber fuerza de reacción. No podríamos estar sentados hablando. Literalmente, todas las cosas se atravesarían, no existirían planetas, estrellas, galaxias, etc. Al no haber tensión que resistiera el movimiento de mi brazo, mi brazo saldría eyectado de mi cuerpo. Al no haber reacción que sostuviese la sangre en movimiento de mi cuerpo, toda ella saldría disparada atravesando mis células. Y en general, así con todas las cosas que se mueven dentro de un recipiente.
 
-4. Anexo: Diagrama (o dibujo) de Cuerpo Libre: Consiste en reducir un cuerpo a un punto sobre el cual actúan  diversas fuerzas, que si son sumadas se obtiene la fuerza neta.  En el caso de la caja en un plano inclinado, podemos decir que existen tres fuerzas actuando sobre ella: fuerza peso, fuerza de roce y fuerza normal. La de peso siempre apunta verticalmente hacia abajo, la de roce siempre en contra del movimiento, y la normal siempre normal o perpendicular a la superficie en la cual se ubica el objeto (en este caso, la caja).
+    [Ejemplo 1](https://www.youtube.com/watch?v=ZkVU-bj9bDk)
+
+6. Anexo: Diagrama (o dibujo) de Cuerpo Libre: Consiste en reducir un cuerpo a un punto sobre el cual actúan  diversas fuerzas, que si son sumadas se obtiene la fuerza neta.  En el caso de la caja en un plano inclinado, podemos decir que existen tres fuerzas actuando sobre ella: fuerza peso, fuerza de roce y fuerza normal. La de peso siempre apunta verticalmente hacia abajo, la de roce siempre en contra del movimiento, y la normal siempre normal o perpendicular a la superficie en la cual se ubica el objeto (en este caso, la caja).
 
 Tipos de Fuerzas:
 
 1. Fuerzas de Reaccion
    - Fuerzas de roce
-     - Roce estático: Es la fuerza de roce que se opone al movimiento Y que existe justo antes del movimiento. 
+     - [Roce estático](https://www.youtube.com/shorts/vJKOt0U2gmo): Es la fuerza de roce que se opone al movimiento Y que existe justo antes del movimiento. 
  
-     - Roce cinético: Es la fuerza de roce que se opone al movimiento Y que existe justo después del movimiento.  
+     - [Roce cinético]: Es la fuerza de roce que se opone al movimiento Y que existe justo después del movimiento.  
  
      - Fuerza de Roce con el aire: El aire presenta una oposición al movimiento De cualquier objeto, es un tipo de la fuerza de roce cinético. 
    - Fuerzas normales
@@ -296,8 +309,7 @@ Movimiento de todas sus partículas en conjunto.
 
 4. Fórmula de Calor Latente:
    - historia: El término Calor latente fue acuñado o usado por primera vez por Joseph Black  
-En 1750 al estudiar las condiciones de presión y temperaturas necesarias para destilar 
-El whisky escocés.
+En 1750 al estudiar las condiciones de presión y temperaturas necesarias para destilar el whisky escocés.
    - cambios de fases:
      - vaporizacion o ebullición
      - condensacion
